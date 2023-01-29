@@ -12,3 +12,4 @@
 1. [HTML常用标签](./1.HTML/2.HTML常用标签.md)
 1. [HTML常用知识](./1.HTML/3.HTML常用知识.md)
 1. [HTML代码规范](./1.HTML/4.HTML代码规范.md)
+1. [HTML5基础](./1.HTML/5.HTML5基础.md)
